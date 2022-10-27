@@ -10,3 +10,9 @@ following an object smoothly at a comfortable, safe distance;
 and finally, using its onboard IMU it is going to be able to report acceleration and orientation data.
 
 The buggy will report all of the data wirelessly, using Bluetooth.
+
+Group members:
+Diarmuid Mulrennan
+Owen Sheridan
+Oleg Perekopskyi
+Maria Isabella Corcoran
